@@ -17,6 +17,6 @@ function Kontrol(){
     else if(t==i){
     count++;
     document.getElementById("cc").innerHTML=count;
-    document.getElementById("sonuc").innerHTML="Congrilations You Guess the True Number";
+    document.getElementById("sonuc").innerHTML="Congratulations You Guess the True Number";
     }
 }
