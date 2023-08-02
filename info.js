@@ -1,4 +1,4 @@
-var t=Math.floor((Math.random()*100)+1);
+var t=Math.floor((Math.random()*500)+1);
 var count=0;
 
 function Kontrol(){
